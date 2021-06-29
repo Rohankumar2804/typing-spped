@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://baconipsum.com/api/?type=all-meat&paras=3&start-with-lorem=1&format=text
 ## Available Scripts
 
 In the project directory, you can run:
