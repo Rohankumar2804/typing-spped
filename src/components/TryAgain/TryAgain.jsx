@@ -22,7 +22,7 @@ const TryAgain = ({words, characters, wpm ,startAgain}) => {
           className="end-btn share-again-btn"
           onClick={() => {
             window.open(
-              'https://www.facebook.com/sharer/sharer.php?u=theleanprogrammer.com',
+              'https://www.facebook.com/sharer/sharer.php?u=https://rohan2804-typingspeed-app.herokuapp.com/',
               'facebook-share-dialog',
               'width=800,height=600'
             );
@@ -34,7 +34,7 @@ const TryAgain = ({words, characters, wpm ,startAgain}) => {
           className="end-btn tweet-again-btn"
           onClick={() =>
             window.open(
-              'https://twitter.com/intent/tweet?text=Check%20this%20out%20theleanprogrammer.com'
+              'https://twitter.com/intent/tweet?text=Check%20this%20out%20https://rohan2804-typingspeed-app.herokuapp.com/'
             )
           }
         >
