@@ -6,7 +6,7 @@ import Footer from '../Footer/Footer';
 import { SAMPLE_PARAGRAPHS } from "./../../data/sampleParagraphs";
 import ChallengeSection from '../ChallengeSection/ChallengeSection';
 
-const TotalTime = 6;
+const TotalTime = 60;
 const serviceURL="http://metaphorpsum.com/paragraphs/1/9";
 const defaultState={
   selectedParagraph: 'My name is rohan',
